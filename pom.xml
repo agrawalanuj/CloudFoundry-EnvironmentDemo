@@ -66,7 +66,7 @@
 		<!-- Necessary for Spring Cloud.  Hopefully not needed after Spring Cloud version > 1 -->
 		<repository>
 		    <id>org.springframework.maven.milestone</id>
-		    <name>Spring Maven Milestone RepositoryAnuj</name>
+		    <name>Spring Maven Milestone Repository</name>
 		    <url>http://repo.spring.io/milestone</url>
 		</repository>
 	</repositories>
